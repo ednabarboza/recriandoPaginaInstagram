@@ -1,2 +1,2 @@
 # Recriando a Pagina do Instagram
-Projeto DIO: Recriando a página do instagram utilizando HTML e CSS
+Projeto realizado durante bootcamp de Desenvolvimento Web da Digital Inovation One - DIO: Recriando a página do instagram utilizando HTML e CSS
